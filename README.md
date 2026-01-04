@@ -2,7 +2,7 @@
 Welcome to my portfolio! This repository documents my journey through the Excel Specialization, showcasing my ability to handle increasingly complex datasets.
 
 ## 🎓 Certifications
-* **Excel Skills for Business: Essentials** - [Link to Cert]
+* **Excel Skills for Business: Essentials** - [https://coursera.org/share/244c490b423b6973f5c205e82c594a60]
 * **Excel Skills for Business: Intermediate I** - [Link to Cert]
 * **Excel Skills for Business: Intermediate II** - *In Progress*
 
