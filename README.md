@@ -14,4 +14,4 @@ Welcome to my portfolio. This repository documents my progression from Excel Ess
 
 ---
 Contact Details: 
-*LinkedIn*: https://www.linkedin.com/in/rishi-maini
+* *LinkedIn*: https://www.linkedin.com/in/rishi-maini
