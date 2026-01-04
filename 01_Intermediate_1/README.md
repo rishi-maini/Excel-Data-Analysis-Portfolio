@@ -1,5 +1,5 @@
 # 📊 Project: Corporate Data Consolidation & Sales Intelligence
-**Certification:** Excel Skills for Business: Intermediate I (Macquarie University)
+**Certification:** Excel Skills for Business: Intermediate I (Macquarie University, Sydney, Australia)
 
 ## 🎯 Project Goals
 The primary objective of this project was to transform a fragmented set of business data into a streamlined, automated reporting system. 
