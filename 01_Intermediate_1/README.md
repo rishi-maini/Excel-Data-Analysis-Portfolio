@@ -1,6 +1,5 @@
 # 📊 Project: Corporate Data Consolidation & Sales Intelligence
 **Certification:** 
-* Excel Skills for Business: Essentials (Macquarie University, Sydney, Australia)
 * Excel Skills for Business: Intermediate I (Macquarie University, Sydney, Australia)
 
 ## 🎯 Project Goals
