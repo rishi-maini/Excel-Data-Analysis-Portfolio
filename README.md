@@ -15,3 +15,5 @@ Welcome to my portfolio. This repository documents my progression from Excel Ess
 ---
 Contact Details: 
 * *LinkedIn*: https://www.linkedin.com/in/rishi-maini
+*  +1-905-782-3065
+*  rishimaini100@gmail.com
