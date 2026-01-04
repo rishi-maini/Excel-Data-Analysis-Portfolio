@@ -3,7 +3,7 @@ Welcome to my portfolio! This repository documents my journey through the Excel 
 
 ## 🎓 Certifications
 * **Excel Skills for Business: Essentials** - [https://coursera.org/share/244c490b423b6973f5c205e82c594a60]
-* **Excel Skills for Business: Intermediate I** - [Link to Cert]
+* **Excel Skills for Business: Intermediate I** - [https://coursera.org/share/fa687c48ad460d3f9925a41ec3a9988d]
 * **Excel Skills for Business: Intermediate II** - *In Progress*
 
 ---
