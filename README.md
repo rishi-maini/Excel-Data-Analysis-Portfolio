@@ -9,8 +9,8 @@ Welcome to my portfolio. This repository documents my progression from Excel Ess
 * **Status:** Certified ✅
 
 ### 📈 [Excel: Intermediate II](./02_Intermediate_2/)
-* **Focus:** Advanced Lookups, Data Validation, and Power Query.
-* **Status:** In Progress ⏳
+* **Focus:** Advanced Lookups, Data Validation, Macros, and Power Query.
+* **Status:** Certified ✅
 
 ---
 Contact Details: 
