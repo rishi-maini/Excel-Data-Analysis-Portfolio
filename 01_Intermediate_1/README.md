@@ -48,4 +48,4 @@ Through this analysis, I identified:
 * **Staffing:** Optimized the HR database to track pension contributions (9%) and upcoming review dates automatically.
 
 ---
-✅ *This project demonstrates a mastery of data management, automated reporting, and business intelligence principles.*
+*This project demonstrates a mastery of data management, automated reporting, and business intelligence principles.*
