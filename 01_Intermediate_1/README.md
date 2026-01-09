@@ -2,6 +2,14 @@
 **Certification:** 
 * Excel Skills for Business: Intermediate I (Macquarie University, Sydney, Australia) * https://coursera.org/share/fa687c48ad460d3f9925a41ec3a9988d
 
+---
+
+## 📂 Included Files
+* **[Raw_Data_Intermediate_1.xlsx](./Raw_Data_Intermediate_1.xlsx):** The original, unformatted datasets containing errors, inconsistent text, and fragmented sheets.
+* **[Final_Business_Solution.xlsx](./Final_Business_Solution.xlsx):** The audited and automated final version featuring the "Executive Dashboard" and cleaned data tables.
+
+---
+
 ## 🎯 Project Goals
 The primary objective of this project was to transform a fragmented set of business data into a streamlined, automated reporting system. 
 
@@ -28,11 +36,6 @@ Key goals included:
 * **Trend Analysis:** Integrated **Sparklines** and **Chart Trendlines** to provide a visual representation of sales velocity and seasonal peaks.
 * **Advanced Formatting:** Applied conditional formatting to highlight "High Priority" missing data and top-performing sales tiers.
 
----
-
-## 📂 Included Files
-* **[Raw_Data_Intermediate_1.xlsx](./Raw_Data_Intermediate_1.xlsx):** The original, unformatted datasets containing errors, inconsistent text, and fragmented sheets.
-* **[Final_Business_Solution.xlsx](./Final_Business_Solution.xlsx):** The audited and automated final version featuring the "Executive Dashboard" and cleaned data tables.
 
 ---
 
