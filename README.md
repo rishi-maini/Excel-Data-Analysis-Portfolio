@@ -8,7 +8,7 @@ Welcome to my portfolio. This repository documents my progression from Excel Ess
 * **Focus:** Data cleaning, 3D formulas, and automated sales reporting.
 * **Status:** Certified ✅
 
-### 📈 [Excel: Intermediate II](./02_Intermediate_2/)
+### 📈 [Excel: Intermediate II](./02_Intermediate_2/) (In Progress)
 * **Focus:** Advanced Lookups, Data Validation, Macros, and Power Query.
 * **Status:** Certified ✅
 
